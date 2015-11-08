@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataGameOfLife", "KataGameOfLife\KataGameOfLife.csproj", "{EC340C1C-9155-43E1-9CF5-752E46B066E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataGameOfLifeUnitTest", "KataGameOfLifeUnitTest\KataGameOfLifeUnitTest.csproj", "{AC962419-ADFD-4405-8F40-BC781BB2B5D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC340C1C-9155-43E1-9CF5-752E46B066E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC340C1C-9155-43E1-9CF5-752E46B066E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC340C1C-9155-43E1-9CF5-752E46B066E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC340C1C-9155-43E1-9CF5-752E46B066E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC962419-ADFD-4405-8F40-BC781BB2B5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC962419-ADFD-4405-8F40-BC781BB2B5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC962419-ADFD-4405-8F40-BC781BB2B5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC962419-ADFD-4405-8F40-BC781BB2B5D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
